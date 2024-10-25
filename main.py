@@ -9,3 +9,6 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 print("hello world")
 print(f"Your API key is: {api_key}")
+
+
+print("skibidi")
