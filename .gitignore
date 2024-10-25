@@ -1,4 +1,5 @@
-# Ignore virtual environment
+# Ignore the virtualenv directory
 venv/
-# Ignore environment variables file
-.env
+
+# Ignore the config file containing the API key
+config.env
